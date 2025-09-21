@@ -1,0 +1,10 @@
+gradio
+google-generativeai
+PyPDF2
+python-docx
+Pillow
+pandas
+openpyxl
+pytesseract
+pdf2image
+google-cloud-secret-manager
